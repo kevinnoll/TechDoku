@@ -1,0 +1,53 @@
+\documentclass[a4paper,abstracton]{scrreprt}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+
+%correct linebreaking in bibliography
+\usepackage{hyperref}
+\usepackage{breakurl}
+
+%lists
+\usepackage{mdwlist}
+
+%biblatex
+%\usepackage[babel,german=quotes]{csquotes}
+%\usepackage[style=alphabetic]{biblatex}
+%\bibliography{thesis}
+
+
+
+%table 
+\usepackage{pbox}
+\usepackage{booktabs}
+
+%set numeration depth
+\setcounter{secnumdepth}{3}
+%set how many numbers show up in table-of-contents
+\setcounter{tocdepth}{2}
+
+\begin{document}
+\author{Kevin Noll}
+\subject{Pilze und so}
+\title{Roetlinge, yo}
+\publishers{htwsaar}
+\maketitle
+\tableofcontents
+%\listoffigures
+%\listoftables
+
+\begin{abstract}
+\begin{quote}%abstand rechts und links
+Diese Arbeit befasst sich mit Pizlen und so nem kram. kein scheiss
+\end{quote} 
+\end{abstract}
+
+\chapter{Bodenbeschaffenheit}
+\chapter{Beschreibung der Pilze}
+\chapter{Verwechslungsmoeglichkeiten}
+\chapter{Inhaltsstoffe, Geniessbarkeit}
+\chapter{Ernte, Haltbarkeit und richtige Lagerung}
+\chapter{Verwendung und Zubereitung mit Rezept}
+
+%\printbibliography
+\end{document}
