@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.3.20)  2 JUL 2014 13:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.3.20)  3 JUL 2014 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -565,9 +565,252 @@ Package breakurl Warning: You are using breakurl while processing via pdflatex.
 ) (d:/texlive/2013/texmf-dist/tex/latex/mdwtools/mdwlist.sty
 Package: mdwlist 1996/05/02 1.1 Various list-related things
 )
+(d:/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
+
+(d:/texlive/2013/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(d:/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count106
+)
+\etb@tempcnta=\count107
+)
+\csq@reset=\count108
+\csq@gtype=\count109
+\csq@glevel=\count110
+\csq@qlevel=\count111
+\csq@maxlvl=\count112
+\csq@tshold=\count113
+\csq@ltx@everypar=\toks20
+
+(d:/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(d:/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Option 'babel' depreciated.
+(csquotes)             Using 'autostyle'.
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
+)
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
+
+
+Package biblatex Warning: No "backend" specified, using Biber backend.
+(biblatex)                To use BibTeX, load biblatex with 
+(biblatex)                the "backend=bibtex" option.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/biblatex2.sty
+Package: biblatex2 2013/11/25 v2.8a programmable bibliographies (biber) (PK/JW/
+AB)
+
+(d:/texlive/2013/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count114
+
+(d:/texlive/2013/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count115
+\c@listtotal=\count116
+\c@listcount=\count117
+\c@liststart=\count118
+\c@liststop=\count119
+\c@citecount=\count120
+\c@citetotal=\count121
+\c@multicitecount=\count122
+\c@multicitetotal=\count123
+\c@instcount=\count124
+\c@maxnames=\count125
+\c@minnames=\count126
+\c@maxitems=\count127
+\c@minitems=\count128
+\c@citecounter=\count129
+\c@savedcitecounter=\count130
+\c@uniquelist=\count131
+\c@uniquename=\count132
+\c@refsection=\count133
+\c@refsegment=\count134
+\c@maxextratitle=\count135
+\c@maxextratitleyear=\count136
+\c@maxextrayear=\count137
+\c@maxextraalpha=\count138
+\c@abbrvpenalty=\count139
+\c@highnamepenalty=\count140
+\c@lownamepenalty=\count141
+\c@maxparens=\count142
+\c@parenlevel=\count143
+\blx@tempcnta=\count144
+\blx@tempcntb=\count145
+\blx@tempcntc=\count146
+\blx@maxsection=\count147
+\blx@maxsegment@0=\count148
+\blx@notetype=\count149
+\blx@parenlevel@text=\count150
+\blx@parenlevel@foot=\count151
+\blx@sectionciteorder@0=\count152
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\shorthandwidth=\skip54
+\biblabelsep=\skip55
+\bibitemsep=\skip56
+\bibnamesep=\skip57
+\bibinitsep=\skip58
+\bibparsep=\skip59
+\bibhang=\skip60
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\c@mincomprange=\count153
+\c@maxcomprange=\count154
+\c@mincompwidth=\count155
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authortitle.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count156
+\c@savedafterword=\count157
+\c@annotator=\count158
+\c@savedannotator=\count159
+\c@author=\count160
+\c@savedauthor=\count161
+\c@bookauthor=\count162
+\c@savedbookauthor=\count163
+\c@commentator=\count164
+\c@savedcommentator=\count165
+\c@editor=\count166
+\c@savededitor=\count167
+\c@editora=\count168
+\c@savededitora=\count169
+\c@editorb=\count170
+\c@savededitorb=\count171
+\c@editorc=\count172
+\c@savededitorc=\count173
+\c@foreword=\count174
+\c@savedforeword=\count175
+\c@holder=\count176
+\c@savedholder=\count177
+\c@introduction=\count178
+\c@savedintroduction=\count179
+\c@namea=\count180
+\c@savednamea=\count181
+\c@nameb=\count182
+\c@savednameb=\count183
+\c@namec=\count184
+\c@savednamec=\count185
+\c@shortauthor=\count186
+\c@savedshortauthor=\count187
+\c@shorteditor=\count188
+\c@savedshorteditor=\count189
+\c@translator=\count190
+\c@savedtranslator=\count191
+\c@labelname=\count192
+\c@savedlabelname=\count193
+\c@institution=\count194
+\c@savedinstitution=\count195
+\c@lista=\count196
+\c@savedlista=\count197
+\c@listb=\count198
+\c@savedlistb=\count199
+\c@listc=\count200
+\c@savedlistc=\count201
+\c@listd=\count202
+\c@savedlistd=\count203
+\c@liste=\count204
+\c@savedliste=\count205
+\c@listf=\count206
+\c@savedlistf=\count207
+\c@location=\count208
+\c@savedlocation=\count209
+\c@organization=\count210
+\c@savedorganization=\count211
+\c@origlocation=\count212
+\c@savedoriglocation=\count213
+\c@origpublisher=\count214
+\c@savedorigpublisher=\count215
+\c@publisher=\count216
+\c@savedpublisher=\count217
+\c@language=\count218
+\c@savedlanguage=\count219
+\c@pageref=\count220
+\c@savedpageref=\count221
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count222
+\c@textcitetotal=\count223
+\c@textcitemaxnames=\count224
+\c@biburlnumpenalty=\count225
+\c@biburlucpenalty=\count226
+\c@biburllcpenalty=\count227
+\c@smartand=\count228
+)
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count229
+\c@bbx:relatedtotal=\count230
+))
+Package biblatex Info: Trying to load citation style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.cbx' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
+File: authortitle.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+(d:/texlive/2013/texmf-dist/tex/latex/filecontents/filecontents.sty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+
+LaTeX Warning: Overwriting file `./test.bib'.
+
+\openout15 = `test.bib'.
+
+
+LaTeX Warning: Tab has been converted to Blank Space.
+
+
 (d:/texlive/2013/texmf-dist/tex/latex/pbox/pbox.sty
 Package: pbox 2011/12/07 v1.2 Dynamic parboxes
-\pb@xlen=\skip52
+\pb@xlen=\skip61
 )
 (d:/texlive/2013/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -581,45 +824,58 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen119
 \cmidrulekern=\dimen120
 \defaultaddspace=\dimen121
-\@cmidla=\count106
-\@cmidlb=\count107
+\@cmidla=\count231
+\@cmidlb=\count232
 \@aboverulesep=\dimen122
 \@belowrulesep=\dimen123
-\@thisruleclass=\count108
-\@lastruleclass=\count109
+\@thisruleclass=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\@lastruleclass=\count277
 \@thisrulewidth=\dimen124
-) (./dokument.aux)
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(d:/texlive/2013/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+)) (./dokument.aux)
 \openout1 = `dokument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 \AtBeginShipoutBox=\box29
-
-(d:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+ (d:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
+\scratchcounter=\count278
 \scratchdimen=\dimen125
 \scratchbox=\box30
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count113
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count281
 \MPscratchDim=\dimen126
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks22
 ) (d:/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -635,7 +891,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (d:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -643,199 +899,224 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (d:/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count116
+\c@section@level=\count284
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./dokument.out) (./dokument.out)
-\@outlinefile=\write3
-\openout3 = `dokument.out'.
+\@outlinefile=\write4
+\openout4 = `dokument.out'.
 
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `dokument.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'dokument.bbl' found.
+ (./dokument.bbl)
+Package biblatex Info: Reference section=0 on input line 43.
+Package biblatex Info: Reference segment=0 on input line 43.
 
 <deckblatt.pdf, id=40, 597.55246pt x 845.07718pt>
 File: deckblatt.pdf Graphic file (type pdf)
  <use deckblatt.pdf>
-Package pdftex.def Info: deckblatt.pdf used on input line 31.
+Package pdftex.def Info: deckblatt.pdf used on input line 44.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: deckblatt.pdf Graphic file (type pdf)
 
 <use deckblatt.pdf>
-Package pdftex.def Info: deckblatt.pdf used on input line 31.
+Package pdftex.def Info: deckblatt.pdf used on input line 44.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  <deckblatt.pdf, id=43, page=1, 597.55246pt x 845.07718pt>
 File: deckblatt.pdf Graphic file (type pdf)
 
 <use deckblatt.pdf, page 1>
-Package pdftex.def Info: deckblatt.pdf, page1 used on input line 31.
+Package pdftex.def Info: deckblatt.pdf, page1 used on input line 44.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: deckblatt.pdf Graphic file (type pdf)
  <use deckblatt.pdf, page 1>
-Package pdftex.def Info: deckblatt.pdf, page1 used on input line 31.
+Package pdftex.def Info: deckblatt.pdf, page1 used on input line 44.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: deckblatt.pdf Graphic file (type pdf)
 
 <use deckblatt.pdf, page 1>
-Package pdftex.def Info: deckblatt.pdf, page1 used on input line 31.
+Package pdftex.def Info: deckblatt.pdf, page1 used on input line 44.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: deckblatt.pdf Graphic file (type pdf)
  <use deckblatt.pdf, page 1>
-Package pdftex.def Info: deckblatt.pdf, page1 used on input line 31.
+Package pdftex.def Info: deckblatt.pdf, page1 used on input line 44.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: deckblatt.pdf Graphic file (type pdf)
 
 <use deckblatt.pdf, page 1>
-Package pdftex.def Info: deckblatt.pdf, page1 used on input line 31.
+Package pdftex.def Info: deckblatt.pdf, page1 used on input line 44.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 44.
  [1
 
  <./deckblatt.pdf>]
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 38.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 51.
 
 (d:/texlive/2013/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ) (./dokument.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <10.95> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
+(Font)              <6> on input line 9.
 )
-\tf@toc=\write4
-\openout4 = `dokument.toc'.
+\tf@toc=\write5
+\openout5 = `dokument.toc'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 55.
  [2
 
 {c:/Users/Kevin/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 59.
  [3
 
 
 ]
 Kapitel 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 63.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 64.
 [4
 
 ]
 Kapitel 2.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 55.
+(babel)             in language  on input line 69.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 55.
+(babel)             in language  on input line 69.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 57.
+(babel)             in language  on input line 71.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 57.
+(babel)             in language  on input line 71.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 75.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 75.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 75.
 [5
 
 ]
-Kapitel 3.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 75.
+ (d:/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 61.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 61.
-[6
+(babel)             in language  on input line 78.
+ [6
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (./dokument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `dokument.out' has not changed.
-(rerunfilecheck)             Checksum: FFA805D9C878364B1C8B770A35F23D37;618.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
+(rerunfilecheck)             Checksum: 15C372875F02D3C1EAAC23547186416A;595.
+Package logreq Info: Writing requests to 'dokument.run.xml'.
+\openout1 = `dokument.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 8851 strings out of 493308
- 131838 string characters out of 6141367
- 271985 words of memory out of 5000000
- 12164 multiletter control sequences out of 15000+600000
- 10931 words of font info for 29 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 43i,18n,51p,708b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 14604 strings out of 493308
+ 232614 string characters out of 6141367
+ 723534 words of memory out of 5000000
+ 17827 multiletter control sequences out of 15000+600000
+ 15814 words of font info for 38 fonts, out of 8000000 for 9000
+ 961 hyphenation exceptions out of 8191
+ 43i,18n,67p,953b,1505s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<d:/texl
-ive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/texlive/2013/t
-exmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb><d:/texlive/2013/texmf-dist/
-fonts/type1/public/cm-super/sfsx1440.pfb><d:/texlive/2013/texmf-dist/fonts/type
-1/public/cm-super/sfsx2074.pfb><d:/texlive/2013/texmf-dist/fonts/type1/public/c
-m-super/sfti1095.pfb>
-Output written on dokument.pdf (6 pages, 234640 bytes).
+ive/2013/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><d:/texlive/2013/t
+exmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2013/texmf-dist/
+fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2013/texmf-dist/fonts/type
+1/public/cm-super/sfrm0900.pfb><d:/texlive/2013/texmf-dist/fonts/type1/public/c
+m-super/sfrm1095.pfb><d:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sf
+sx1095.pfb><d:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb
+><d:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb><d:/texli
+ve/2013/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb><d:/texlive/2013/te
+xmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><d:/texlive/2013/texmf-dist/f
+onts/type1/public/cm-super/sftt1095.pfb>
+Output written on dokument.pdf (6 pages, 318777 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

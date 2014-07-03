@@ -12,11 +12,24 @@
 \usepackage{mdwlist}
 
 %biblatex
-%\usepackage[babel,german=quotes]{csquotes}
-%\usepackage[style=alphabetic]{biblatex}
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage[style=authortitle]{biblatex}
 %\bibliography{bib}
+\bibliography{test}
 
+\usepackage{filecontents}
 
+\begin{filecontents}{test.bib}
+@Electronic{entoloma,
+  Title                    = {Roetlinge / Entoloma},
+  Author                   = {Machiel Evert Noordeloos},
+  Url                      = {http://www.entoloma.nl/html/duits.html},
+  Keywords                 = {entoloma},
+  Owner                    = {Kevin},
+  Urldate				   = {2014-07-03}
+}
+
+\end{filecontents}
 
 %table 
 \usepackage{pbox}
@@ -47,9 +60,10 @@ Diese Arbeit befasst sich mit Pizlen und so nem kram. kein scheiss
 
 \chapter{Vorwort}
 Diese Ausarbeitung ist Bestandteil einer Reihe von Ausarbeitungen, die im Zuge der Vorlesung "'Technische Dokumentation"' entstanden sind. Der Kerngedanke bei der Anfertigung dieser Arbeit ist, zu erlernen, wie man mit fachbezogenen Texten umgeht -- von der Recherche über die Erstellung bis hin zur Anfertigung eines korrekten Literaturverzeichnisses. Unter dem Schirmthema \emph{Heimische Pilze} beschäftigt sich diese Ausarbeitung mit den Rötlingen (lat.: "'Entoloma"'). Es werden unter anderem Kenntnisse über die benötigte Bodenbeschaffenheit, die Beschreibung des Pilzes, die bei Pilzen so wichtigen Verwechslungsmöglichkeiten sowie die Zubereitung vermittelt.
-
+\footnote{\autocite{entoloma}}
 \chapter{Rötlinge}
-Rötlinge (lat.: "'Entoloma"') sind eine direkte Untergruppe -- auch Gattung genannt -- der Familie der Rötlingsverwandten (lat.: "'Entolomataceae"'). Wie alle Arten der Rötlingsverwandten besitzen die Rötlinge rosa- bis braunfarbenes Sporenpulver. Die Sporen der Rötlinge sind dabei im Gegensatz zu vielen anderen Gattungen der Familie eckig, was jedoch nur unter einem Mikroskop zu sehen ist. Weiterhin besitzen viele Arten der Rötlinge sogenannte Zystiden. 
+\section{Allgemeines}
+Rötlinge (lat.: "'Entoloma"') sind eine direkte Untergruppe -- auch Gattung genannt -- der Familie der Rötlingsverwandten (lat.: "'Entolomataceae"'). Wie alle Arten der Rötlingsverwandten besitzen die Rötlinge rosa- bis braunfarbenes Sporenpulver. Die Sporen der Rötlinge sind dabei im Gegensatz zu vielen anderen Gattungen der Familie eckig, was jedoch nur unter einem Mikroskop ersichtlich ist. Weiterhin besitzen viele Arten der Rötlinge sogenannte Zystiden. 
 \section{Bodenbeschaffenheit}
 \section{Beschreibung der Pilze}
 \section{Verwechslungsmoeglichkeiten}
@@ -57,6 +71,8 @@ Rötlinge (lat.: "'Entoloma"') sind eine direkte Untergruppe -- auch Gattung gen
 \section{Ernte, Haltbarkeit und richtige Lagerung}
 \section{Verwendung und Zubereitung mit Rezept}
 
-\chapter{Literaturverzeichnis}
-%\printbibliography
+%sadfsdf
+\printbibliography
+
+
 \end{document}
