@@ -40,6 +40,26 @@
       \endverb
       \keyw{faktenuber}
     \endentry
+    \entry{schildroetling}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=4a4654f38a8537e08be9137bd97cfdc9}{Fredis-Pilzseite.de}{F\bibinithyphendelim P\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4a4654f38a8537e08be9137bd97cfdc9}{Fredis-Pilzseite.de}{F\bibinithyphendelim P\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{4a4654f38a8537e08be9137bd97cfdc9}
+      \strng{fullhash}{4a4654f38a8537e08be9137bd97cfdc9}
+      \field{sortinit}{F}
+      \field{labeltitle}{Steckbrief zu: Entoloma clypeatum}
+      \field{title}{Steckbrief zu: Entoloma clypeatum}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.fredis-pilzseite.de/entoloma-clypeatum-1/
+      \endverb
+      \keyw{schildroetling}
+    \endentry
     \entry{naturfuehrer}{book}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=f1632b9f3b27acb647cb478c757ec16c}{Montag}{M\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
@@ -117,6 +137,27 @@
       \verb http://www.pilzfotopage.de/Agaricales/slides/Entoloma_sinuatum.html
       \endverb
       \keyw{riesenroetling}
+    \endentry
+    \entry{russblaettrig}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
+      \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
+      \field{sortinit}{t}
+      \field{labeltitle}{Rußblättriger Rötling Entoloma jubatum}
+      \field{note}{Navigation: Pilzbuch, Artenindex, Entoloma jubatum}
+      \field{title}{Rußblättriger Rötling Entoloma jubatum}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://tintling.com/pilzbuch/arten/e/Entoloma_jubatum.html
+      \endverb
+      \keyw{russblaettrig}
     \endentry
     \entry{beschreibung}{online}{}
       \name{labelname}{1}{}{%
