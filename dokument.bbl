@@ -19,6 +19,24 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{naturfuehrer}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=f1632b9f3b27acb647cb478c757ec16c}{Montag}{M\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f1632b9f3b27acb647cb478c757ec16c}{Montag}{M\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Franck-Kosmos Verlag}%
+      }
+      \strng{namehash}{f1632b9f3b27acb647cb478c757ec16c}
+      \strng{fullhash}{f1632b9f3b27acb647cb478c757ec16c}
+      \field{sortinit}{M}
+      \field{labeltitle}{Pilze, sicher bestimmen mit Foto und Zeichnung}
+      \field{edition}{2}
+      \field{title}{Pilze, sicher bestimmen mit Foto und Zeichnung}
+      \field{year}{2003}
+    \endentry
     \entry{entoloma}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=0fd68b45ae857ae416180246fa4d56a0}{Noordeloos}{N\bibinitperiod}{Machiel\bibnamedelima Evert}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
