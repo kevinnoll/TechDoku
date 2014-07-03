@@ -39,6 +39,26 @@
       \endverb
       \keyw{entoloma}
     \endentry
+    \entry{beschreibung}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=febf8c4bce9aa7a91bcfe1e2c3f6e1c9}{Winkler}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=febf8c4bce9aa7a91bcfe1e2c3f6e1c9}{Winkler}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{febf8c4bce9aa7a91bcfe1e2c3f6e1c9}
+      \strng{fullhash}{febf8c4bce9aa7a91bcfe1e2c3f6e1c9}
+      \field{sortinit}{W}
+      \field{labeltitle}{Rötling, Entoloma}
+      \field{title}{Rötling, Entoloma}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.pilze.ch/pilzbestimmung/artenlisten/Entoloma.htm
+      \endverb
+      \keyw{beschreibung}
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

@@ -10,12 +10,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Bodenbeschaffenheit}{5}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Beschreibung der Pilze}{5}{section.2.3}
+\contentsline {section}{\numberline {2.3}Beschreibung}{5}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Verwechslungsmoeglichkeiten}{5}{section.2.4}
+\contentsline {section}{\numberline {2.4}Versuch der Aufteilung in mehrere Gattungen}{6}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Inhaltsstoffe, Geniessbarkeit}{5}{section.2.5}
+\contentsline {section}{\numberline {2.5}Verwechslungsmoeglichkeiten}{6}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Ernte, Haltbarkeit und richtige Lagerung}{5}{section.2.6}
+\contentsline {section}{\numberline {2.6}Inhaltsstoffe, Geniessbarkeit}{6}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Verwendung und Zubereitung mit Rezept}{5}{section.2.7}
+\contentsline {section}{\numberline {2.7}Unterarten}{6}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}PILZ A}{6}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}PILZ B}{6}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.3}PILZ C}{6}{subsection.2.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.4}PILZ D}{6}{subsection.2.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Verwendung und Zubereitung mit Rezept}{6}{section.2.8}
