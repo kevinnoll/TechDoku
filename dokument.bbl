@@ -180,6 +180,27 @@
       \endverb
       \keyw{russblaettrig}
     \endentry
+    \entry{stahlblau}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
+      \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
+      \field{sortinit}{t}
+      \field{labeltitle}{Stahlblauer Rötling - Entoloma nitidum}
+      \field{note}{Navigation: Pilzbuch, Artenindex, Entoloma nitidum}
+      \field{title}{Stahlblauer Rötling - Entoloma nitidum}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://tintling.com/pilzbuch/arten/e/Entoloma_nitidum.html
+      \endverb
+      \keyw{stahlblau}
+    \endentry
     \entry{beschreibung}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=febf8c4bce9aa7a91bcfe1e2c3f6e1c9}{Winkler}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
