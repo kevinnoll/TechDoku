@@ -19,6 +19,27 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{scherbengelb}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=59aba5ba6a9b961bd457dfe9d2ee30b2}{123pilze.de}{1\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=59aba5ba6a9b961bd457dfe9d2ee30b2}{123pilze.de}{1\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{59aba5ba6a9b961bd457dfe9d2ee30b2}
+      \strng{fullhash}{59aba5ba6a9b961bd457dfe9d2ee30b2}
+      \field{sortinit}{1}
+      \field{labeltitle}{Scherbengelber Rötling - Entoloma cetratum}
+      \field{note}{Navigation: Pilze nach Alphabet geordnet, Pilze alphabetisch geordnet, Scherbengelber Roetling}
+      \field{title}{Scherbengelber Rötling - Entoloma cetratum}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.123pilze.de/DreamHC/Download/ScherbengelberRoetling.htm
+      \endverb
+      \keyw{scherbengelb}
+    \endentry
     \entry{faktenuber}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
@@ -127,9 +148,9 @@
       \strng{namehash}{d67d39ae2a365c19b4e60d1afa113d2f}
       \strng{fullhash}{d67d39ae2a365c19b4e60d1afa113d2f}
       \field{sortinit}{p}
-      \field{labeltitle}{Entoloma sinuatum - Riesenrötling}
+      \field{labeltitle}{Riesenroetling - Entoloma sinuatum}
       \field{note}{Navigation: Agaricales, Entoloma sinuatum}
-      \field{title}{Entoloma sinuatum - Riesenrötling}
+      \field{title}{Riesenroetling - Entoloma sinuatum}
       \field{urlday}{03}
       \field{urlmonth}{07}
       \field{urlyear}{2014}
@@ -148,9 +169,9 @@
       \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
       \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
       \field{sortinit}{t}
-      \field{labeltitle}{Rußblättriger Rötling Entoloma jubatum}
+      \field{labeltitle}{Rußblättriger Rötling - Entoloma jubatum}
       \field{note}{Navigation: Pilzbuch, Artenindex, Entoloma jubatum}
-      \field{title}{Rußblättriger Rötling Entoloma jubatum}
+      \field{title}{Rußblättriger Rötling - Entoloma jubatum}
       \field{urlday}{03}
       \field{urlmonth}{07}
       \field{urlyear}{2014}

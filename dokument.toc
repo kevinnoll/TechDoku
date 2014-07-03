@@ -26,7 +26,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.7.3}Schildr\IeC {\"o}tling -- Entoloma clypeatum}{9}{subsection.2.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.4}Ru\IeC {\ss }bl\IeC {\"a}ttriger R\IeC {\"o}tling -- Entoloma jubatum}{10}{subsection.2.7.4}
+\contentsline {subsection}{\numberline {2.7.4}Ru\IeC {\ss }bl\IeC {\"a}ttriger R\IeC {\"o}tling -- Entoloma jubatum}{9}{subsection.2.7.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.7.5}Scherbengelber R\IeC {\"o}tling}{10}{subsection.2.7.5}
 \defcounter {refsection}{0}\relax 
