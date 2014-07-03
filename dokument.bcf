@@ -1967,8 +1967,11 @@
     <bcf:citekey order="1">entoloma</bcf:citekey>
     <bcf:citekey order="2">kosmos</bcf:citekey>
     <bcf:citekey order="3">naturfuehrer</bcf:citekey>
-    <bcf:citekey order="4">beschreibung</bcf:citekey>
+    <bcf:citekey order="4">faktenuber</bcf:citekey>
     <bcf:citekey order="5">beschreibung</bcf:citekey>
+    <bcf:citekey order="6">beschreibung</bcf:citekey>
+    <bcf:citekey order="7">beschreibung</bcf:citekey>
+    <bcf:citekey order="8">riesenroetling</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

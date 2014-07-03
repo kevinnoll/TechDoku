@@ -19,6 +19,27 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{faktenuber}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{30fc2a4fa5040b63f269a5926226af0a}
+      \strng{fullhash}{30fc2a4fa5040b63f269a5926226af0a}
+      \field{sortinit}{f}
+      \field{labeltitle}{Fakten über Rötlinge}
+      \field{note}{Navigation: Suche, Rötlinge}
+      \field{title}{Fakten über Rötlinge}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://fakten-uber.de/r%C3%B6tlinge
+      \endverb
+      \keyw{faktenuber}
+    \endentry
     \entry{naturfuehrer}{book}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=f1632b9f3b27acb647cb478c757ec16c}{Montag}{M\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
@@ -48,6 +69,7 @@
       \strng{fullhash}{0fd68b45ae857ae416180246fa4d56a0}
       \field{sortinit}{N}
       \field{labeltitle}{Roetlinge / Entoloma}
+      \field{note}{Navigation: Deutsch, Rötlinge}
       \field{title}{Roetlinge / Entoloma}
       \field{urlday}{03}
       \field{urlmonth}{07}
@@ -75,6 +97,27 @@
       \field{title}{Der Kosmos-Pilzatlas}
       \field{year}{1990}
     \endentry
+    \entry{riesenroetling}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=d67d39ae2a365c19b4e60d1afa113d2f}{pilzfotopage.de}{p\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d67d39ae2a365c19b4e60d1afa113d2f}{pilzfotopage.de}{p\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{d67d39ae2a365c19b4e60d1afa113d2f}
+      \strng{fullhash}{d67d39ae2a365c19b4e60d1afa113d2f}
+      \field{sortinit}{p}
+      \field{labeltitle}{Entoloma sinuatum - Riesenrötling}
+      \field{note}{Navigation: Agaricales, Entoloma sinuatum}
+      \field{title}{Entoloma sinuatum - Riesenrötling}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.pilzfotopage.de/Agaricales/slides/Entoloma_sinuatum.html
+      \endverb
+      \keyw{riesenroetling}
+    \endentry
     \entry{beschreibung}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=febf8c4bce9aa7a91bcfe1e2c3f6e1c9}{Winkler}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
@@ -86,6 +129,7 @@
       \strng{fullhash}{febf8c4bce9aa7a91bcfe1e2c3f6e1c9}
       \field{sortinit}{W}
       \field{labeltitle}{Rötling, Entoloma}
+      \field{note}{Navigation: Pilzbestimmung, Gattungen und Arten, Entoloma}
       \field{title}{Rötling, Entoloma}
       \field{urlday}{03}
       \field{urlmonth}{07}
