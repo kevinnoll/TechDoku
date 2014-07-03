@@ -39,6 +39,24 @@
       \endverb
       \keyw{entoloma}
     \endentry
+    \entry{kosmos}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=3ce002a12d8b8ec9ab8d623dfd1a5d9e}{Phillips}{P\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3ce002a12d8b8ec9ab8d623dfd1a5d9e}{Phillips}{P\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Franck-Kosmos Verlag}%
+      }
+      \strng{namehash}{3ce002a12d8b8ec9ab8d623dfd1a5d9e}
+      \strng{fullhash}{3ce002a12d8b8ec9ab8d623dfd1a5d9e}
+      \field{sortinit}{P}
+      \field{labeltitle}{Der Kosmos-Pilzatlas}
+      \field{edition}{2}
+      \field{title}{Der Kosmos-Pilzatlas}
+      \field{year}{1990}
+    \endentry
     \entry{beschreibung}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=febf8c4bce9aa7a91bcfe1e2c3f6e1c9}{Winkler}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%

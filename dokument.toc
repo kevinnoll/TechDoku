@@ -29,3 +29,5 @@
 \contentsline {subsection}{\numberline {2.7.4}PILZ D}{6}{subsection.2.7.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.8}Verwendung und Zubereitung mit Rezept}{6}{section.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Literaturverzeichnis}{7}{chapter.3}

@@ -16,7 +16,8 @@
 \usepackage[style=authortitle]{biblatex}
 %\bibliography{bib}
 \bibliography{test}
-
+\defbibheading{lit}{\chapter{Literaturverzeichnis}}
+\setlength\bibitemsep{2\itemsep}
 \usepackage{filecontents}
 
 \begin{filecontents}{test.bib}
@@ -36,6 +37,19 @@
   Owner                    = {Kevin},
   Urldate				   = {2014-07-03}
 }
+@Book{kosmos,
+  Title                    = {Der Kosmos-Pilzatlas},
+  Author                   = {Roger Phillips},
+  Publisher                = {Franck-Kosmos Verlag},
+  Year                     = {1990},
+  Edition                  = {2},
+
+  Owner                    = {Kevin},
+  Timestamp                = {2014.07.03}
+}
+
+
+
 \end{filecontents}
 
 %table 
@@ -72,11 +86,12 @@ Diese Ausarbeitung ist Bestandteil einer Reihe von Ausarbeitungen, die im Zuge d
 Rötlinge (lat.: "'Entoloma"') sind eine direkte Untergruppe -- auch Gattung genannt -- der Familie der Rötlingsverwandten (lat.: "'Entolomataceae"'). Wie alle Arten der Rötlingsverwandten besitzen die Rötlinge rosa- bis braunfarbenes Sporenpulver. Die Sporen der Rötlinge sind dabei im Gegensatz zu vielen anderen Gattungen der Familie eckig, was jedoch nur unter einem Mikroskop ersichtlich ist. Weiterhin besitzen viele Arten der Rötlinge sogenannte Zystiden. 
 \footcite{entoloma}
 \section{Bodenbeschaffenheit}
-
+asdads
+\footcite{kosmos}
 \section{Beschreibung}
 Rötlinge kommen mit kleinen bis großen Fruchtkörpern in vielen verschiedenen Farben und Formen vor. Die Formen des Hutes der Rötlinge reichen von glockig-kebelig über breitgebuckelt, gewölbt, mit oder ohne Papille bis zu genabelt oder trichterig. Die Farbe des Fruchtkörpers kann dabei unterschiedlichster Art sein, erscheint jedoch meist in grauen bis braunen Tönen von blass bis sehr dunkel. Manche Gattungsanhänger bilden jedoch auch intensive Blautöne aus, selten können auch Grüntöne oder Rosatöne gefunden werden. 
 
-Die Oberfläche des Pilzhutes ist im Normalfall metallisch glänzend, in selteneren Fällen jedoch auch filzig, faserig oder etwas schuppig. die Lamellen sind durch das bereits erwähnte rosafarbene Sporenpulver dementsprechend gefärbt.
+Die Oberfläche des Pilzhutes ist im Normalfall metallisch glänzend, in selteneren Fällen jedoch auch filzig, faserig oder etwas schuppig. die Lamellen sind durch das bereits erwähnte rosafarbene Sporenpulver dementsprechend gefärbt. Dies ist besonders bei hell gefärbten Lamellen gut zu beobachten.
 \footcite{beschreibung}
 
 \section{Versuch der Aufteilung in mehrere Gattungen}
@@ -90,7 +105,7 @@ Die Oberfläche des Pilzhutes ist im Normalfall metallisch glänzend, in seltene
 \section{Verwendung und Zubereitung mit Rezept}
 
 %sadfsdf
-\printbibliography
+\printbibliography[heading=lit]
 
 
 \end{document}
